@@ -1,10 +1,6 @@
 # Zulip-bot-echoes
 A simple templated bot for zulip that echoes every message sent to it .
 
-# zulip-bot
-A helloworld bot which replies with "beep boop" to every message @-mentioning it. 
-
-
 ## Setup
 Run the following commands from Your root directory
 
