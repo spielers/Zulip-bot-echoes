@@ -10,9 +10,9 @@ Run the following commands from Your root directory
 
 ## Step 1
 
-`git clone https://github.com/spielers/`  /* To clone this repository */
+`https://github.com/spielers/Zulip-bot-echoes.git`  /* To clone this repository */
 
-`cd zulip-bot ` /* To Navigate to the cloned repo */
+`cd Zulip-bot-echoes ` /* To Navigate to the cloned repo */
 
 `cd python-zulip-api` - navigate into your cloned repository.
 
